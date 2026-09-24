@@ -1,4 +1,4 @@
-# Rise for Saran
+# Rise 
 
 A native, offline Android application written in Java. It combines a home-training plan, Indian meals, skin-care and career routines, editable reminders, daily tasks and personal dreams.
 
