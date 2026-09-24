@@ -1,0 +1,186 @@
+{
+  "workouts": [
+    {
+      "name": "A · Strong foundations",
+      "day": "Monday",
+      "exercises": [
+        [
+          "Goblet squat",
+          "2 x 10-15",
+          "Hold one 3-5 kg dumbbell close to your chest. Sit between your hips, knees following toes, heels down. Use a stable chair behind you as a depth guide; do not drop onto it."
+        ],
+        [
+          "Incline push-up",
+          "2 x 6-12",
+          "Hands on a fixed wall or solid countertop. Keep head, ribs and hips in one line. Lower chest under control; exhale as you press. Begin at a wall if needed."
+        ],
+        [
+          "One-arm dumbbell row",
+          "2 x 12-20 / side",
+          "Use 3-5 kg. Support your free hand on a solid surface, hinge at hips, keep back neutral. Pull elbow toward hip without twisting."
+        ],
+        [
+          "Dumbbell Romanian deadlift",
+          "2 x 12-20",
+          "Use a matched pair if available, or hold one 5 kg dumbbell with both hands. Soft knees, push hips back, keep weight close. Stop before your back rounds."
+        ],
+        [
+          "Hammer curl",
+          "2 x 10-20 / side",
+          "Start at 2-4 kg. Palms face in, elbows by ribs. Lift without swinging, lower slowly. One arm at a time is fine."
+        ],
+        [
+          "Dead bug",
+          "2 x 6-10 / side",
+          "Lie on your back, knees bent at 90 degrees. Exhale and brace gently. Extend opposite arm and leg only as far as you can without arching your back."
+        ]
+      ]
+    },
+    {
+      "name": "B · Legs, shoulders & arms",
+      "day": "Wednesday",
+      "exercises": [
+        [
+          "Supported split squat",
+          "2 x 8-12 / side",
+          "Start with body weight. Hold a wall lightly for balance; feet on two parallel tracks. Lower straight down to a comfortable depth. Add one light dumbbell only when steady."
+        ],
+        [
+          "One-arm floor press",
+          "2 x 12-20 / side",
+          "Lie on floor, knees bent. Use 3-5 kg, wrist above elbow, elbow about 30-45 degrees from your torso. Touch upper arm gently to floor, press up; keep hips level."
+        ],
+        [
+          "One-arm dumbbell row",
+          "2 x 12-20 / side",
+          "Use 3-5 kg. Hinge, support yourself on a solid surface, pull toward hip and lower slowly without rotating your torso."
+        ],
+        [
+          "One-arm overhead press",
+          "2 x 8-15 / side",
+          "Start with 2-3 kg. Brace lightly and keep ribs down. Press only through a pain-free range; do wall push-ups instead if overhead movement hurts."
+        ],
+        [
+          "Triceps kickback",
+          "2 x 12-20 / side",
+          "Use 2 kg or no weight at first. Hinge with support, upper arm alongside your torso. Straighten the elbow without moving the shoulder or swinging."
+        ],
+        [
+          "Side plank from knees",
+          "2 x 15-30 sec / side",
+          "Elbow under shoulder, knees bent. Lift hips so shoulder, hip and knee form one line. Breathe normally; stop before form collapses."
+        ]
+      ]
+    },
+    {
+      "name": "C · Whole-body strength",
+      "day": "Friday",
+      "exercises": [
+        [
+          "Goblet squat with pause",
+          "2 x 10-15",
+          "Use 3-5 kg. Lower for 3 seconds, pause briefly at a comfortable depth, then stand. Start with body weight if balance is difficult."
+        ],
+        [
+          "Incline push-up",
+          "2 x 6-12",
+          "Use the same stable surface as Monday. Lower under control with a straight body. Progress by using a slightly lower stable surface when all reps are easy."
+        ],
+        [
+          "Dumbbell Romanian deadlift",
+          "2 x 12-20",
+          "Use one weight in both hands or a matched pair. Move hips backward with soft knees. Feel hamstrings working; keep back neutral."
+        ],
+        [
+          "One-arm dumbbell row",
+          "2 x 12-20 / side",
+          "Use 3-5 kg. Keep hips and shoulders square and elbow close. Match repetitions between sides; start with the weaker side."
+        ],
+        [
+          "Supinated biceps curl",
+          "2 x 10-20 / side",
+          "Use 2-4 kg, palms forward, elbows still. Avoid leaning back. Lower for 2-3 seconds."
+        ],
+        [
+          "Reverse crunch",
+          "2 x 8-15",
+          "Lie on your back, knees bent. Exhale and curl pelvis slightly off the floor without swinging legs. Use dead bugs if you feel lower-back discomfort."
+        ]
+      ]
+    }
+  ],
+  "fuel": [
+    {
+      "title": "Your protein target",
+      "body": "At 65 kg, a practical starting range is 90-105 g protein daily (about 1.4-1.6 g/kg). Spread it across 3 meals and 1 snack. Regular food is enough; protein powder is optional. If you have kidney disease or a prescribed diet, ask your clinician before raising protein."
+    },
+    {
+      "title": "Breakfast · 08:10",
+      "body": "Option A: 3 eggs + 2 idlis + 1 cup sambar (roughly 24-29 g protein). Option B: 2 moong-dal chillas made from 60 g dry moong + 200 g plain curd (roughly 21-25 g). Add a fruit if hungry. Cook with measured oil."
+    },
+    {
+      "title": "Lunch · 13:00",
+      "body": "Start with 1 cup cooked rice OR 2 medium chapatis, 2 fists of vegetables, and protein. Choose 100-120 g cooked chicken/fish OR 150-200 g tofu plus 1/2-1 cup dal. Include plain curd if it fits your appetite. Protein varies: check tofu labels."
+    },
+    {
+      "title": "Snack · 16:00",
+      "body": "Choose 250 ml milk + 30 g roasted chana (about 13-15 g protein), or 200 g higher-protein curd/yogurt (check label), plus fruit if hungry. Nuts are useful in small portions but are not a main protein source."
+    },
+    {
+      "title": "Dinner · 19:30",
+      "body": "Choose 2 chapatis OR 3/4-1 cup cooked rice, vegetables, and protein: 40-50 g dry soy chunks cooked into curry, OR 100-120 g cooked fish/chicken, OR 100 g paneer plus 1/2-1 cup dal. Adjust grain portions to hunger and training."
+    },
+    {
+      "title": "Eat more often",
+      "body": "Dal, chana, rajma, soy, eggs, fish, chicken, tofu, plain curd; varied vegetables; whole fruit; rice, roti, oats and millets in sensible portions. Drink to thirst and more when sweating. Rice and dinner carbohydrates do not need to be banned."
+    },
+    {
+      "title": "Eat less often",
+      "body": "Sugary tea/coffee, soft drinks, juice, frequent sweets, deep-fried snacks and repeated large takeaways. Measure cooking oil instead of pouring freely. Keep favourite foods in smaller planned portions; do not skip meals as punishment."
+    },
+    {
+      "title": "Body recomposition first",
+      "body": "At the assumed 165 cm and 65 kg, avoid aggressive dieting. Begin with balanced meals and resistance training. Watch waist, strength and energy for 3-4 weeks. If waist reduction stalls and you want fat loss, trim one small extra portion rather than cutting protein or whole meals."
+    }
+  ],
+  "care": [
+    {
+      "title": "Morning · after exercise",
+      "body": "Gently wash with a mild cleanser, then use a simple moisturiser. Before going outdoors or daylight exposure, apply broad-spectrum SPF 30+ sunscreen; choose water-resistant protection when sweating. Reapply outdoors about every 2 hours and after sweating/wiping, following the label."
+    },
+    {
+      "title": "Evening · 21:00",
+      "body": "Gently cleanse and moisturise. Wash after heavy sweating too, without repeated harsh scrubbing. Introduce only one new product at a time and patch-test first. Stop a product if it causes irritation."
+    },
+    {
+      "title": "Grooming & confidence",
+      "body": "Choose a haircut you can maintain, tidy the beard neckline, keep nails and clothes clean, and wear clothes that fit your shoulders and waist. Stand comfortably tall and practise calm eye contact. These are choices, not requirements to change your natural features."
+    },
+    {
+      "title": "What to skip",
+      "body": "No lemon juice, bleach, steroid/fairness creams, abrasive scrubs or jaw-training devices. Face exercises cannot reliably remove face fat or reshape facial bones. Persistent acne, itching or painful bumps deserve a dermatologist, not stronger DIY products."
+    }
+  ],
+  "career": [
+    {
+      "title": "DSA · 09:00 / 45 min",
+      "body": "Week 1-2: arrays, strings and hashing. Week 3-4: two pointers, sliding window and binary search. Week 5-6: linked lists, stacks and queues. Week 7-8: recursion, trees and BSTs. Week 9-10: heaps and graphs. Week 11-12: basic dynamic programming and timed revision. One understood problem beats copying five solutions."
+    },
+    {
+      "title": "Java project · 10:00 / 60 min",
+      "body": "Build one small backend project over 12 weeks: Java/OOP and collections; then SQL/JDBC; then a REST API, validation, tests and README. Keep a daily note: what worked, what failed, what comes next. Use a 25-minute focus timer when starting feels hard."
+    },
+    {
+      "title": "Applications · 14:00 / weekdays",
+      "body": "Submit 2-3 suitable, tailored applications if enough relevant roles exist. Track company, role, job URL, application date, status and follow-up date. Use the app to add a one-time follow-up task. Review your resume weekly; measure quality as well as count."
+    },
+    {
+      "title": "Interviews · 17:00 / 30 min",
+      "body": "Rotate Java basics, OOP, collections, SQL, HTTP/REST, project explanation, and behavioural STAR stories. Record a 2-minute answer; improve clarity. Saturday: 30-45 minute mock interview. Sunday: review errors and next week."
+    },
+    {
+      "title": "When motivation is low",
+      "body": "Use the minimum day: 5 minutes of movement, one healthy protein meal, morning/evening care, one DSA review, and one job-search action. Open the task, start for 5 minutes, then decide whether to continue. Missing a day is a cue to restart, not a reason to punish yourself."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.saran.rise.tests">
+ <uses-sdk android:minSdkVersion="26" android:targetSdkVersion="35"/>
+ <application android:label="Rise verification"/>
+ <instrumentation android:name="com.saran.rise.StreakTest" android:targetPackage="com.saran.rise" android:label="Rise plans and streak verification"/>
+ <instrumentation android:name="com.saran.rise.MediaTest" android:targetPackage="com.saran.rise" android:label="Rise media verification"/>
+ <instrumentation android:name="com.saran.rise.SmokeTest" android:targetPackage="com.saran.rise" android:label="Rise device verification"/>
+</manifest>

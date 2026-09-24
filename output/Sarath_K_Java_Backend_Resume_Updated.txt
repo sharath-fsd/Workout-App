@@ -1,0 +1,52 @@
+SARATH K
+Java Backend Developer | Java Developer | Spring Boot | REST APIs
++91 63791 54010 | sharathk09122005@gmail.com
+linkedin.com/in/sarath-k-2005- | github.com/sharath-fsd
+Portfolio: sharath-fsd.github.io/Portfolio-3-/ | LeetCode: leetcode.com/u/dW5Hu0XQfj/
+PROFESSIONAL SUMMARY
+Entry-level Java developer experienced in REST APIs, authentication and persistence using Spring Boot, Spring
+Security, Hibernate/JPA, MySQL and JWT. Delivered a client-facing appointment management application and Java
+application logic. Strong foundation in OOP, SQL, collections and exception handling; seeking Java backend and junior
+software engineering roles.
+TECHNICAL SKILLS
+Java: Core Java, OOP, Collections Framework, Exception Handling, Multithreading basics
+Backend: Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, REST APIs, JWT
+Data: MySQL, SQL, relational schema design, CRUD operations, JSON, Android SharedPreferences
+Testing and Tools: JUnit 5, Postman, Maven, Git/GitHub, Docker, Android instrumentation tests
+Frontend: React.js, JavaScript, Axios, HTML, CSS, Bootstrap, Tailwind CSS
+Problem Solving: Data structures and algorithms; 182+ LeetCode problems solved
+EXPERIENCE
+Independent Client Project - Java Full-Stack Developer | 2026
+Beauty Parlour Management System
+- Built Spring Boot REST APIs for services, appointments and customer/admin workflows, including booking approval
+ and rejection; implemented JWT authentication and role-based authorization with Spring Security.
+- Designed MySQL persistence using Spring Data JPA and Hibernate for relational data models and CRUD operations.
+ 
+- Integrated React workflows through Axios and implemented user notifications and transactional emails.
+ 
+- Tested APIs with Postman and JUnit 5, incorporated client feedback and delivered deployment-ready functionality.
+ 
+github.com/sharath-fsd/Beauty-Parlour-web-application-
+PROJECTS
+Rise - Fitness & Productivity Tracker | Java, Android SDK, JSON
+- Implemented Java application logic for task CRUD, recurring schedules, XP/rank progression, streak resets, reusable
+ plans and timed bonus rewards.
+- Built local persistence with SharedPreferences and validated JSON backup/restore; scheduled recurring alarms using
+ Android AlarmManager and BroadcastReceiver.
+- Verified scheduling and progression rules with 802 automated Java checks and Android instrumentation tests, covering
+ duplicate-reward prevention and timed-event expiry.
+E-Commerce Shopping Application | Java, Spring Boot, React, MySQL
+- Developed REST APIs with JWT authentication and authorization; implemented CRUD workflows using Hibernate/JPA
+ and MySQL for secure frontend-backend communication.
+github.com/sharath-fsd/e-commerce-website-project-with-Backend
+Car Rental Management System | Java, Spring Boot, MySQL
+- Built REST APIs for vehicle booking and rental management with authentication, authorization, relational data models
+ and CRUD operations using Hibernate/JPA.
+github.com/sharath-fsd/Car-Rental-Management-System-Project
+EDUCATION
+Bachelor of Engineering in Electronics and Communication Engineering | 2022-2026
+King's Engineering College, Sriperumbudur | CGPA: 6.85/10
+CERTIFICATIONS
+Spring Framework for Java Development - SkillUp / Coursera, 2026
+Java App Development Project: Fundamentals, OOP and File I/O - SkillUp / Coursera, 2026
+Object-Oriented Programming in Java - IBM / Coursera
